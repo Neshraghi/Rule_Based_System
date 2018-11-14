@@ -1,0 +1,5 @@
+do([f3,f12],Action)		 pass
+do([f2,f5,f9],Action)		 slow down
+do([f1],Action)			 speed up
+do([f2,f5,f6,f9,f10],Action)	 slow down
+do([f4,f5,f9],Action)		 incorrect information
